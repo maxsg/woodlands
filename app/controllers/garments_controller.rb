@@ -4,4 +4,7 @@ class GarmentsController < ApplicationController
 
   def help
   end
+
+  def about 
+  end
 end

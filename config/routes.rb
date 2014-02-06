@@ -1,6 +1,7 @@
 NewApp::Application.routes.draw do
   get "garments/home"
   get "garments/help"
+  get "garments/about"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
